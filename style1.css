@@ -1,0 +1,245 @@
+body#corps {
+    margin: 0px;
+    padding: 0px;
+	font-size: x-large;
+	color:  white;
+	font-family: Mistral;
+	background-color: 666666;
+	text-align: center;
+	width: 100%;
+}
+div#header {
+    clear: both;
+    height: 100px;
+    background-color: lightblue;;
+	font-family: Verdana;
+	color:#708fa0;
+    padding: 0px 40px 0px 40px;
+	text-align: center;
+	
+}
+div#erreur {
+    color: red;
+	font-family: Verdana;
+	font-size: x-large;
+	
+}
+div#confirme {
+    color: yellow;
+	font-family: Verdana;
+	font-size: large;
+	
+}
+div#second
+{
+clear: both;
+    height: 5px;
+    background-color: #4988bf;
+	padding: 1px;
+	font-size: small;
+	font-family: 'Comic Sans MS';
+	color: #708fa0;
+	text-align: left;
+}
+
+table#tableau {
+	width: 700px;
+	margin: auto;
+	color: black;
+	border-style: none;
+	padding: 1px;
+	border-collapse: separate;
+	background-color: #c9c9c9;
+	font-size: 14px;
+	text-align: center;
+	font-family: Helvetica, Verdana, Arial, sans-serif;
+	border-spacing: 3px 2px;
+}
+
+tr#tr0
+{
+	font-family: Helvetica, Verdana, Arial;
+	color: #f0f0f0;
+	text-align: center;
+	font-size: 16px;
+	font-weight: bold;
+	background-color: black;
+	
+}
+
+tr#tr1
+{
+	text-align: left;
+	background-color: #ededed;
+}
+
+tr#tr2
+{
+	text-align: left;
+	background-color: #a8a8a8;
+}
+
+div#menu
+ {
+    clear: both;
+    height: 35px;
+	font-size: small;
+    background-color: lightblue;
+    padding: 1px;
+	text-align: center;
+}
+
+
+td#tdmenu
+{
+background-color: lightblue; 
+font-size: small;
+color: #113acc;
+text-align: center;
+}
+
+
+
+div#left {
+    float: left;
+    width: 150px;
+    background-color: #1eddf0;
+}
+div#right 
+{
+    float: right;
+    width: 150px;
+    background-color: white;
+}
+div#middle
+{
+    padding: 5px 40px 5px 40px;
+	height: 70%;
+    margin: 0px;
+    background-color: acideblue;
+}
+div#footer {
+	height: 2%;
+    background-color: #1eddf0;;
+	font-family: Verdana;
+	font-size: xx-small;
+	text-align: center;
+}
+table#logo
+{
+	font-size: x-small;
+	color: #cdf5fa;
+}
+
+td#tdlogo
+{
+	font-size: x-small;
+	color: #113acc;
+}
+
+
+table#planning
+{
+	font-size:xx-small;
+	font-family: Verdana;
+	background-color: #cdf5fa;;
+	 border-right: #1c1d78 thin inset;
+	border-top: #1c1d78 thin inset;
+	border-left: #1c1d78 thin inset;
+	border-bottom: #1c1d78 thin inset;
+	color :#113acc; 
+}
+th#thdate
+{
+font-size: xx-small;
+	 background-color: #1eddf0;;
+     color : #113acc;
+}
+
+th#thjour
+{
+font-size: xx-small;
+	 background-color: #1eddf0;;
+     color : #113acc;
+}
+
+th#thmoment
+{
+font-size: xx-small;
+	 background-color: #efffff;
+     color : #56a5d0;
+}
+
+th#thmessage
+{
+font-size: xx-small;
+	 background-color: #56a5d0;;
+     color : #efffff;
+}
+
+
+
+table#tbdispo
+{
+	font-size: x-small;
+	font-family: Verdana;
+	background-color: #1eddf0;;
+	 border-right: #1c1d78 thin inset;
+	border-top: #1c1d78 thin inset;
+	border-left: #1c1d78 thin inset;
+	border-bottom: #1c1d78 thin inset;
+	color :#1c1d78; 
+	}
+
+ 
+
+A:link
+{
+	font-size: x-large;
+	color: grey;
+	text-align: center;
+	text-decoration: none;
+}
+A:hover
+{
+	font-size: x-large;
+	color: white;
+	background-image : index.jpeg ;
+	text-align: center;
+	text-decoration: underline;
+}
+
+A:visited
+{
+	font-size: x-large;
+	color: #9b459c;
+	text-align: center;
+	text-decoration: none;
+}
+
+
+
+fieldset
+{
+background-color :#cdf5fa;
+border-bottom-style::after;
+border-bottom-width:x-small;
+font-size: x-small;
+font-family: Verdana;
+	
+}
+fieldset#homepage
+{
+	font-size: x-small;
+	font-family: Verdana;
+	font-variant: small-caps;
+
+}
+legend
+{
+	font-size: small;
+	font-family: Verdana;
+	color: #113acc;
+}
+
+
